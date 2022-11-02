@@ -1,4 +1,4 @@
-//Randall Krueger
+//Lily Krueger
 //Fundamentals of Computing Lab Final Project
 //Sudoku Puzzle Solver
 //Program that allows the user to input any sudoku puzzle and returns
